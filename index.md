@@ -51,3 +51,10 @@ layout: default
 　　*你有没有遇到过导航时手机突然没电的绝望？我在金斯敦山路上经历过一次，现在包里永远塞着两万毫安充电宝。*
 
 　　**最后的小贴士**：圣文森特部分偏远海滩（如北部夏洛特村）信号会“休假”，提前下载离线地图和酒店联络方式。加勒比的网络像海风——时强时弱，保持松弛心态也是旅行必修课啊。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Vincent And The Grenadines SIM 卡购买与激活指南](https://faciylike.github.io/saint-vincent-and-the-grenadines-sim-guides)
